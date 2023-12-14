@@ -19,11 +19,10 @@ def connect_mongo ():
     # insert 작업 진행
     return collection
 
-a = connect_mongo()
-
 #insert 함수 정의
-def dict_fruit (a, ):
-    a.insert_one()
+def dict_fruit (a,dict):
+    a = connect_mongo()
+    a.insert_one(dict)
     return 
 
 #함수에 넣어 줄 값

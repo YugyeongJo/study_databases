@@ -22,18 +22,18 @@ def connect_mongo ():
 a = connect_mongo()
 
 #insert 함수 정의
-def dict_fruit (collection):
-    a.insert_one(collection)
+def dict_fruit (a, ):
+    a.insert_one()
     return 
 
 #함수에 넣어 줄 값
-i = {"name": "키위", "color": "갈색", "origin": "뉴질랜드"}
-j = {"name": "바나나", "color": "노랑", "origin": "필리핀"}
-k = {"name": "오렌지", "color": "주황", "origin": "미국"}
+dict_i = {"name": "키위", "color": "갈색", "origin": "뉴질랜드"}
+dict_j = {"name": "바나나", "color": "노랑", "origin": "필리핀"}
+dict_k = {"name": "오렌지", "color": "주황", "origin": "미국"}
 
-dict_fruit(i)
-dict_fruit(j)
-dict_fruit(k)
+dict_fruit(dict_i)
+dict_fruit(dict_j)
+dict_fruit(dict_k)
 
 pass
 

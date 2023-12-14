@@ -14,5 +14,5 @@ collection.insert_one({"name": "오렌지",
                        "origin": "미국"})
 
 dict_fruit = {"name": "키위", "color": "갈색", "origin": "뉴질랜드"}
-collection.insert_one(dict_fruit)
+collection.insert_ma(dict_fruit)
 pass

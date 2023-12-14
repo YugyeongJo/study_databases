@@ -22,8 +22,8 @@ def connect_mongo ():
 a = connect_mongo()
 
 #insert 함수 정의
-def dict_fruit (x):
-    a.insert_one(x)
+def dict_fruit (collection):
+    a.insert_one(collection)
     return 
 
 #함수에 넣어 줄 값

@@ -29,13 +29,11 @@ def dict_fruit (x):
 #함수에 넣어 줄 값
 i = {"name": "키위", "color": "갈색", "origin": "뉴질랜드"}
 j = {"name": "바나나", "color": "노랑", "origin": "필리핀"}
-k = {"name": "키위", "color": "갈색", "origin": "뉴질랜드"}
-l = {"name": "오렌지", "color": "주황", "origin": "미국"},
+k = {"name": "오렌지", "color": "주황", "origin": "미국"}
 
 dict_fruit(i)
 dict_fruit(j)
 dict_fruit(k)
-dict_fruit(l)
 
 pass
 

@@ -20,8 +20,7 @@ def connect_mongo ():
     return collection
 
 #insert 함수 정의
-def dict_fruit (a,dict):
-    a = connect_mongo()
+def dict_fruit (connect,dict):
     a.insert_one(dict)
     return 
 
@@ -30,9 +29,11 @@ dict_i = {"name": "키위", "color": "갈색", "origin": "뉴질랜드"}
 dict_j = {"name": "바나나", "color": "노랑", "origin": "필리핀"}
 dict_k = {"name": "오렌지", "color": "주황", "origin": "미국"}
 
-dict_fruit(dict_i)
-dict_fruit(dict_j)
-dict_fruit(dict_k)
+connect = connect_mongo()
+    
+dict_fruit(connect, dict_i)
+dict_fruit(connect, dict_j)
+dict_fruit(connect, dict_k)
 
 pass
 

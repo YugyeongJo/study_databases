@@ -25,15 +25,16 @@ def dict_fruit (connect,dict):
     return 
 
 #함수에 넣어 줄 값
-dict_i = {"name": "키위", "color": "갈색", "origin": "뉴질랜드"}
-dict_j = {"name": "바나나", "color": "노랑", "origin": "필리핀"}
-dict_k = {"name": "오렌지", "color": "주황", "origin": "미국"}
+fruit_list = [
+    {"name": "키위", "color": "갈색", "origin": "뉴질랜드"},
+    {"name": "바나나", "color": "노랑", "origin": "필리핀"},
+    {"name": "오렌지", "color": "주황", "origin": "미국"}
+]
 
 connect = connect_mongo()
     
-dict_fruit(connect, dict_i)
-dict_fruit(connect, dict_j)
-dict_fruit(connect, dict_k)
+for count in [0,1,2]:
+    dict_fruit (connect,fruit_list[count])
 
 pass
 

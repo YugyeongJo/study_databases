@@ -7,3 +7,4 @@ collection = database['todos_list']  # solvingproblem collection에 작업
 documents = collection.find({}, {"title":1})
 
 print(list(documents))
+

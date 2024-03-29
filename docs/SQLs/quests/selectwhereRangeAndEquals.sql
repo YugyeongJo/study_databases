@@ -5,8 +5,9 @@
 -- 1) 조건
 SELECT * 
 FROM Customers
-WHERE Country <> 'Germany' AND 'USA';
--- Number of Records: 80
+WHERE Country <> 'Germany' 
+AND Country <> 'USA';
+-- Number of Records: 67
 SELECT * FROM Customers
 WHERE Country NOT IN ('Germany','USA');
 -- Number of Records: 67

@@ -1,3 +1,4 @@
+-- quest refer : https://www.w3schools.com/sql/sql_where.asp
 -- quest 조건 사항
 -- 1) 조건 : Country 가 Germany 와 USA가 아닌 것들
 -- 2) 조건 : CustomerID가 50에서 89이고, City가 London인 고객

@@ -36,8 +36,8 @@ SELECT *
 FROM Suppliers
 WHERE SupplierID
 IN(SELECT SupplierID
-FROM Products
-GROUP BY CategoryID
-HAVING COUNT(CategoryID) >= 12);
+		FROM Products
+		GROUP BY CategoryID
+		HAVING COUNT(CategoryID) >= 12);
 -- Number of Records: 3
 

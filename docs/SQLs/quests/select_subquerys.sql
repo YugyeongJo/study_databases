@@ -32,12 +32,15 @@ WHERE EmployeeID IN (SELECT EmployeeID
 
 -- 조건3 : CategoryID를 가장 많이 제공 상위 2개 회사 정보
 -- 상위 2개 회사 정보 추려내기
-SELECT * 
-FROM Suppliers
-WHERE SupplierID
-IN(SELECT SupplierID
-		FROM Products
-		GROUP BY CategoryID
-		HAVING COUNT(CategoryID) >= 12);
--- Number of Records: 3
+SELECT *
+FROM Supplies
+WHERE SupplierID = (SELECT Category_Group.SupplierID
+			FROM ( SELECT SupplierID, CategoryID, COUNT(CategoryID) AS CNT
+				FROM Products
+				WHERE 1 = 1
+				GROUP BY CategoryID, SupplierID
+				) AS Category_Group
+			WHERE 1 = 1
+			GROUP BY Category_Group.SupplierID
+			ORDER BY COUNT(Category_Group.SupplierID) DESC);
 

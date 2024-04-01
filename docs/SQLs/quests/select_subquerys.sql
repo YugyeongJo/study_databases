@@ -6,7 +6,7 @@
 + 조건1 : 주문 갯수가 5개 이상인 CustomerName 찾기
 - Table : Orders, Employees
 + 조건2 : 주문 갯수가 20개 이상인 판매자 정보
-- Table : Suppliers, Products, Categories
+- Table : Suppliers, Products
 + 조건3 : CategoryID를 가장 많이 제공 상위 2개 회사 정보
 */
 

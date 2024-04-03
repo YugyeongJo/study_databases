@@ -45,6 +45,7 @@ FROM Shippers
 INNER JOIN Orders ON Orders.ShipperID = Shippers.ShipperID
 INNER JOIN OrderDetails ON Orders.OrderID = OrderDetails.OrderID
 INNER JOIN Products ON Products.ProductID = OrderDetails.ProductID
+GROUP BY OrderID
 GROUP BY ShipperID
 ORDER BY ShipperID ASC
 ;

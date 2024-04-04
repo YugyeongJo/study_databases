@@ -40,12 +40,14 @@ limit 3
 -- 86566.60	    9
 
 -- 조건 3 : 배송 회사별 총 배송 건수와 총 제품 금액 정보
-SELECT Shippers.ShipperID, COUNT(Orders.OrderID) AS TOTAL_DELIVERY, sum(Products.Price*OrderDetails.Quantity) AS VOLUME
-FROM Shippers
-INNER JOIN Orders ON Orders.ShipperID = Shippers.ShipperID
+SELECT Shippers.ShipperID, COUNT(SHDFDF.OrderID) AS TOTAL_DELIVERY, 
+FROM Shippers, (
+SELECT Orders.ShipperID, sum(Products.Price*OrderDetails.Quantity) AS VOLUME, OrderID
+FROM Orders
 INNER JOIN OrderDetails ON Orders.OrderID = OrderDetails.OrderID
 INNER JOIN Products ON Products.ProductID = OrderDetails.ProductID
-GROUP BY OrderID
+GROUP BY OrderDetails.OrderID
+) AS SHDFDF
 GROUP BY ShipperID
 ORDER BY ShipperID ASC
 ;

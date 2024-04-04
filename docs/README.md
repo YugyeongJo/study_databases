@@ -23,3 +23,23 @@ db.fruits.find({})
 
 -db.posts.updateMany({}, {$inc : {likes : 1} }) ;
 
+## Coding Test
+<details>
+
+  <summary>백준</summary>
+
+  |구분|소스|문제설명|출처|
+  |--|--|--|--|
+  |입출력과 사칙연산|[JAVA](./src/codingtests/Beakjoon/B2557.java)|Hello World!를 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
+
+</details>
+
+<details>
+  <summary>프로그래머스</summary>
+  
+  |NO|구분|소스|문제설명|출처|
+  |--|--|--|--|--|
+  |1|SELECT|[SQL](./docs/SQLs/codingtest/298517.sql)|가장 큰 물고기 10마리 구하기|[프로그래머스 298517](https://school.programmers.co.kr/learn/courses/30/lessons/298517)|
+  |2|SELECT|[SQL](./docs/SQLs/codingtest/131120.sql)|3월에 태어난 여성 회원 목록 출력하기|[프로그래머스 131120](https://school.programmers.co.kr/learn/courses/30/lessons/131120)|
+  
+</details>

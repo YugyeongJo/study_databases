@@ -16,9 +16,3 @@ SELECT TRIM("    SQL Tutorial    ") AS TrimmedString;
 -- now
 refer : https://www.w3schools.com/sql/func_mysql_now.asp
 SELECT now() as today;
-
--- insert_into
-refer : https://www.w3schools.com/sql/sql_insert.asp
-INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
-VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
-

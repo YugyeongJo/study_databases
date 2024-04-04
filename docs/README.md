@@ -24,15 +24,6 @@ db.fruits.find({})
 -db.posts.updateMany({}, {$inc : {likes : 1} }) ;
 
 ## Coding Test
-<details>
-
-  <summary>백준</summary>
-
-  |구분|소스|문제설명|출처|
-  |--|--|--|--|
-  |입출력과 사칙연산|[JAVA](./src/codingtests/Beakjoon/B2557.java)|Hello World!를 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
-
-</details>
 
 <details>
   <summary>프로그래머스</summary>

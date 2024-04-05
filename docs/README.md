@@ -113,8 +113,6 @@ db.fruits.find({})
 |12|[select_alls.sql](./SQLs/quests/select_alls.sql)||||
 |13|[common_codes.sql]()||||
 
-
-
 </details>
 
 

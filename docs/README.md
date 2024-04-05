@@ -23,6 +23,102 @@ db.fruits.find({})
 
 -db.posts.updateMany({}, {$inc : {likes : 1} }) ;
 
+
+## 개념 정리
+- [NOSQL 개념 정리]()
+- [MYSQL 개념 정리]()
+
+<br/>
+
+## file 정리
+<details>
+<summary>NOSQL</summary>
+
+|구분|파일명|적용내용|파일내용|비고|
+|--|--|--|--|--|
+|1|||||
+|2|||||
+|3|||||
+|4|||||
+|5|||||
+|6|||||
+|7|||||
+|8|||||
+|9|||||
+|10|||||
+|11|||||
+|12|||||
+
+</details>
+
+<details>
+<summary>NOSQL QUEST</summary>
+
+|구분|파일명|적용내용|파일내용|비고|
+|--|--|--|--|--|
+|1|||||
+|2|||||
+|3|||||
+|4|||||
+|5|||||
+|6|||||
+|7|||||
+|8|||||
+|9|||||
+|10|||||
+|11|||||
+|12|||||
+
+
+</details>
+
+<details>
+<summary>MYSQL</summary>
+
+|구분|파일명|적용내용|파일내용|비고|
+|--|--|--|--|--|
+|1|||||
+|2|||||
+|3|||||
+|4|||||
+|5|||||
+|6|||||
+|7|||||
+|8|||||
+|9|||||
+|10|||||
+|11|||||
+|12|||||
+
+
+
+</details>
+
+<details>
+<summary>MYSQL QUEST</summary>
+
+|구분|파일명|적용내용|파일내용|비고|
+|--|--|--|--|--|
+|1|[STUDY_BOARDS.sql](./SQLs/quests/STUDY_BOARDS.sql)||||
+|2|[STUDY_CARS.sql](./SQLs/quests/STUDY_CARS.sql)||||
+|3|[STUDY_USERS.sql](./SQLs/quests/STUDY_USERS.sql)||||
+|4|[STUDY_MOVIES.sql](./SQLs/quests/STUDY_MOVIES.sql)||||
+|5|[notice_inserts.sql](./SQLs/quests/notice_inserts.sql)||||
+|6|[notice_deletes.sql](./SQLs/quests/notice_deletes.sql)||||
+|7|[STUDY_USERSwithInestSQL.sql](./SQLs/quests/)||||
+|8|[selectwhereRangeAndEquals.sql](./SQLs/quests/selectwhereRangeAndEquals.sql)||||
+|9|[select_group_havings_orderby.sql](./SQLs/quests/select_group_havings_orderby.sql)||||
+|10|[select_subquerys.sql](./SQLs/quests/select_subquerys.sql)||||
+|11|[select_joins.sql](./SQLs/quests/select_joins.sql)||||
+|12|[select_alls.sql](./SQLs/quests/select_alls.sql)||||
+|13|[common_codes.sql]()||||
+
+
+
+</details>
+
+
+
 ## Coding Test
 
 <details>

@@ -17,3 +17,12 @@ INGREDIENT_TYPE	VARCHAR(N)	FALSE
 문제
 상반기 아이스크림 총주문량이 3,000보다 높으면서 아이스크림의 주 성분이 과일인 아이스크림의 맛을 총주문량이 큰 순서대로 조회하는 SQL 문을 작성해주세요.
 */
+
+SELECT H.FLAVOR
+FROM FIRST_HALF AS H
+INNER JOIN ICECREAM_INFO AS I
+ON H.FLAVOR = I.FLAVOR
+WHERE H.TOTAL_ORDER > 3000
+AND I.INGREDIENT_TYPE = 'fruit_based'
+ORDER BY H.TOTAL_ORDER DESC
+;

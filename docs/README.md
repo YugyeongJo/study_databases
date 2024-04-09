@@ -1,3 +1,8 @@
+## SQL
+
+<details>
+<summary>NoSQL</summary>
+
 ### mongodb fuctions
 - insertOne() : 
 db.car_info.insertOne({...})
@@ -23,6 +28,9 @@ db.fruits.find({})
 
 -db.posts.updateMany({}, {$inc : {likes : 1} }) ;
 
+</details>
+
+<br/>
 
 ## 개념 정리
 - [NOSQL 개념 정리]()

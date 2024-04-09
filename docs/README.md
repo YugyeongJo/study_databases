@@ -130,5 +130,8 @@ db.fruits.find({})
 |4|SELECT|[SQL](./docs/SQLs/codingtest/151136.sql)|평균 일일 대여 요금 구하기|[프로그래머스 151136](https://school.programmers.co.kr/learn/courses/30/lessons/151136)|
 |5|SELECT|[SQL](./docs/SQLs/codingtest/132201.sql)|12세 이하인 여자 환자 목록 출력하기
 |[프로그래머스 132201](https://school.programmers.co.kr/learn/courses/30/lessons/132201)|
+|6|SELECT|[SQL](./docs/SQLs/codingtest/144853.sql)|조건에 맞는 도서 리스트 출력하기|[프로그래머스 144853](https://school.programmers.co.kr/learn/courses/30/lessons/144853)|
+|7|SELECT|[SQL](./docs/SQLs/codingtest/164673.sql)|조건에 부합하는 중고거래 댓글 조회하기|[프로그래머스 164673](https://school.programmers.co.kr/learn/courses/30/lessons/164673)|
+|8|SELECT|[SQL](./docs/SQLs/codingtest/133025.sql)|과일로 만든 아이스크림 고르기|[프로그래머스 133025](https://school.programmers.co.kr/learn/courses/30/lessons/133025)|
   
 </details>

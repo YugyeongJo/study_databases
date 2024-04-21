@@ -132,13 +132,15 @@ db.fruits.find({})
   
 |NO|구분|소스|문제설명|출처|
 |--|--|--|--|--|
-|1|SELECT|[SQL](./docs/SQLs/codingtest/298517.sql)|가장 큰 물고기 10마리 구하기|[프로그래머스 298517](https://school.programmers.co.kr/learn/courses/30/lessons/298517)|
-|2|SELECT|[SQL](./docs/SQLs/codingtest/131120.sql)|3월에 태어난 여성 회원 목록 출력하기|[프로그래머스 131120](https://school.programmers.co.kr/learn/courses/30/lessons/131120)|
-|3|SELECT|[SQL](./docs/SQLs/codingtest/132203.sql)|흉부외과 또는 일반외과 의사 목록 출력하기|[프로그래머스 132203](https://school.programmers.co.kr/learn/courses/30/lessons/132203)|
-|4|SELECT|[SQL](./docs/SQLs/codingtest/151136.sql)|평균 일일 대여 요금 구하기|[프로그래머스 151136](https://school.programmers.co.kr/learn/courses/30/lessons/151136)|
-|5|SELECT|[SQL](./docs/SQLs/codingtest/132201.sql)|12세 이하인 여자 환자 목록 출력하기|[프로그래머스 132201](https://school.programmers.co.kr/learn/courses/30/lessons/132201)|
-|6|SELECT|[SQL](./docs/SQLs/codingtest/144853.sql)|조건에 맞는 도서 리스트 출력하기|[프로그래머스 144853](https://school.programmers.co.kr/learn/courses/30/lessons/144853)|
-|7|SELECT|[SQL](./docs/SQLs/codingtest/164673.sql)|조건에 부합하는 중고거래 댓글 조회하기|[프로그래머스 164673](https://school.programmers.co.kr/learn/courses/30/lessons/164673)|
-|8|SELECT|[SQL](./docs/SQLs/codingtest/133025.sql)|과일로 만든 아이스크림 고르기|[프로그래머스 133025](https://school.programmers.co.kr/learn/courses/30/lessons/133025)|
+|1|IS NULL|[SQL](docs\SQLs\codingtest\131114.sql)|경기도에 위치한 식품창고 목록 출력하기|[프로그래머스 131114](https://school.programmers.co.kr/learn/courses/30/lessons/131114)|
+|2|IS NULL|[SQL](docs\SQLs\codingtest\59039.sql)|이름이 없는 동물의 아이디|[프로그래머스 59039](https://school.programmers.co.kr/learn/courses/30/lessons/59039)|
+|3|IS NULL|[SQL](docs\SQLs\codingtest\59407.sql)|이름이 있는 동물의 아이디|[프로그래머스 59407](https://school.programmers.co.kr/learn/courses/30/lessons/59407)|
+|4|IS NULL|[SQL](docs\SQLs\codingtest\59410.sql)|NULL 처리하기|[프로그래머스 59410](https://school.programmers.co.kr/learn/courses/30/lessons/59410)|
+|5|IS NULL|[SQL](docs\SQLs\codingtest\131528.sql)|나이 정보가 없는 회원 수 구하기|[프로그래머스 131528](https://school.programmers.co.kr/learn/courses/30/lessons/131528)|
+|6|IS NULL|[SQL](docs\SQLs\codingtest\273710.sql)|ROOT 아이템 구하기
+|[프로그래머스 273710](https://school.programmers.co.kr/learn/courses/30/lessons/273710)|
+|7|IS NULL|[SQL](docs\SQLs\codingtest\273712.sql)|업그레이드 할 수 없는 아이템 구하기|[프로그래머스 273712](https://school.programmers.co.kr/learn/courses/30/lessons/273712)|
+|8|IS NULL|[SQL](docs\SQLs\codingtest\293259.sql)|잡은 물고기의 평균 길이 구하기
+|[프로그래머스 293259](https://school.programmers.co.kr/learn/courses/30/lessons/293259)|
   
 </details>

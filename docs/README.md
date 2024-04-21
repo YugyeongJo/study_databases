@@ -137,10 +137,8 @@ db.fruits.find({})
 |3|IS NULL|[SQL](docs\SQLs\codingtest\59407.sql)|이름이 있는 동물의 아이디|[프로그래머스 59407](https://school.programmers.co.kr/learn/courses/30/lessons/59407)|
 |4|IS NULL|[SQL](docs\SQLs\codingtest\59410.sql)|NULL 처리하기|[프로그래머스 59410](https://school.programmers.co.kr/learn/courses/30/lessons/59410)|
 |5|IS NULL|[SQL](docs\SQLs\codingtest\131528.sql)|나이 정보가 없는 회원 수 구하기|[프로그래머스 131528](https://school.programmers.co.kr/learn/courses/30/lessons/131528)|
-|6|IS NULL|[SQL](docs\SQLs\codingtest\273710.sql)|ROOT 아이템 구하기
-|[프로그래머스 273710](https://school.programmers.co.kr/learn/courses/30/lessons/273710)|
+|6|IS NULL|[SQL](docs\SQLs\codingtest\273710.sql)|ROOT 아이템 구하기|[프로그래머스 273710](https://school.programmers.co.kr/learn/courses/30/lessons/273710)|
 |7|IS NULL|[SQL](docs\SQLs\codingtest\273712.sql)|업그레이드 할 수 없는 아이템 구하기|[프로그래머스 273712](https://school.programmers.co.kr/learn/courses/30/lessons/273712)|
-|8|IS NULL|[SQL](docs\SQLs\codingtest\293259.sql)|잡은 물고기의 평균 길이 구하기
-|[프로그래머스 293259](https://school.programmers.co.kr/learn/courses/30/lessons/293259)|
+|8|IS NULL|[SQL](docs\SQLs\codingtest\293259.sql)|잡은 물고기의 평균 길이 구하기|[프로그래머스 293259](https://school.programmers.co.kr/learn/courses/30/lessons/293259)|
   
 </details>

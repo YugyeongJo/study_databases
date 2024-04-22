@@ -140,5 +140,15 @@ db.fruits.find({})
 |6|IS NULL|[SQL](docs\SQLs\codingtest\273710.sql)|ROOT 아이템 구하기|[프로그래머스 273710](https://school.programmers.co.kr/learn/courses/30/lessons/273710)|
 |7|IS NULL|[SQL](docs\SQLs\codingtest\273712.sql)|업그레이드 할 수 없는 아이템 구하기|[프로그래머스 273712](https://school.programmers.co.kr/learn/courses/30/lessons/273712)|
 |8|IS NULL|[SQL](docs\SQLs\codingtest\293259.sql)|잡은 물고기의 평균 길이 구하기|[프로그래머스 293259](https://school.programmers.co.kr/learn/courses/30/lessons/293259)|
+|9|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\131697.sql)|가장 비싼 상품 구하기|[프로그래머스 131697](https://school.programmers.co.kr/learn/courses/30/lessons/131697)|
+|10|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\131115.sql)|가격이 제일 비싼 식품의 정보 출력하기|[프로그래머스 131115](https://school.programmers.co.kr/learn/courses/30/lessons/131115)|
+|11|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\59415.sql)|최댓값 구하기|[프로그래머스 59415](https://school.programmers.co.kr/learn/courses/30/lessons/59415)|
+|12|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\59038.sql)|최솟값 구하기|[프로그래머스 59038](https://school.programmers.co.kr/learn/courses/30/lessons/59038)|
+|13|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\59406.sql)|동물 수 구하기|[프로그래머스 59406](https://school.programmers.co.kr/learn/courses/30/lessons/59406)|
+|14|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\59408.sql)|중복 제거하기|[프로그래머스 59408](https://school.programmers.co.kr/learn/courses/30/lessons/59408)|
+|15|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\273709.sql)|조건에 맞는 아이템들의 가격의 총합 구하기|[프로그래머스 273709](https://school.programmers.co.kr/learn/courses/30/lessons/273709)|
+|16|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\293261.sql)|물고기 종류 별 대어 찾기|[프로그래머스 293261](https://school.programmers.co.kr/learn/courses/30/lessons/293261)|
+|17|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\298515.sql)|잡은 물고기 중 가장 큰 물고기의 길이 구하기|[프로그래머스 298515](https://school.programmers.co.kr/learn/courses/30/lessons/298515)|
+|18|SUM, MAX, MIN|[SQL](docs\SQLs\codingtest\299310.sql)|연도별 대장균 크기의 편차 구하기 |[프로그래머스 299310](https://school.programmers.co.kr/learn/courses/30/lessons/299310)|
   
 </details>

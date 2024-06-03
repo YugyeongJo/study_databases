@@ -208,3 +208,11 @@ db.fruits.find({})
 |[프로그래머스 301651](https://school.programmers.co.kr/learn/courses/30/lessons/301651)|
   
 </details>
+
+<details>
+  <summary>해커랭크</summary>
+
+|구분|소스|문제설명|출처|
+|--|--|--|--|
+|Basic Select|[SQL](.\SQLs\codingtest\HackerRank_001.sql)|Revising the Select Query I|[해커랭크 1](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)|
+</details>

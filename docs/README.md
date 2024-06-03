@@ -206,7 +206,6 @@ db.fruits.find({})
 |[프로그래머스 301650](https://school.programmers.co.kr/learn/courses/30/lessons/301650)|
 |51|SELECT|[SQL](./SQLs/codingtest/301651.sql)|멸종위기의 대장균 찾기
 |[프로그래머스 301651](https://school.programmers.co.kr/learn/courses/30/lessons/301651)|
-  
 </details>
 
 <details>

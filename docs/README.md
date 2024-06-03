@@ -215,4 +215,5 @@ db.fruits.find({})
 |--|--|--|--|
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_001.sql)|Revising the Select Query I|[해커랭크 001](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)|
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_002.sql)|Revising the Select Query II|[해커랭크 002](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_003.sql)|Select All|[해커랭크 003](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)|
 </details>

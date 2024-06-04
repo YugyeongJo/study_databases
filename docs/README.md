@@ -220,4 +220,7 @@ db.fruits.find({})
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_005.sql)|Japanese Cities' Attributes|[해커랭크 005](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)|
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_006.sql)|Japanese Cities' Names|[해커랭크 006](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)|
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_007.sql)|Weather Observation Station 1|[해커랭크 007](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_008.sql)|Weather Observation Station 3|[해커랭크 008](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_009.sql)|Weather Observation Station 4|[해커랭크 009](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_010.sql)|Weather Observation Station 5|[해커랭크 010](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)|
 </details>

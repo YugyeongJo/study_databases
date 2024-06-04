@@ -216,4 +216,8 @@ db.fruits.find({})
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_001.sql)|Revising the Select Query I|[해커랭크 001](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)|
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_002.sql)|Revising the Select Query II|[해커랭크 002](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true)|
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_003.sql)|Select All|[해커랭크 003](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_004.sql)|Select By ID|[해커랭크 004](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_005.sql)|Japanese Cities' Attributes|[해커랭크 005](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_006.sql)|Japanese Cities' Names|[해커랭크 006](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_007.sql)|Weather Observation Station 1|[해커랭크 007](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)|
 </details>

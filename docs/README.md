@@ -223,4 +223,5 @@ db.fruits.find({})
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_008.sql)|Weather Observation Station 3|[해커랭크 008](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)|
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_009.sql)|Weather Observation Station 4|[해커랭크 009](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true)|
 |Basic Select|[SQL](./SQLs/codingtest/HackerRank_010.sql)|Weather Observation Station 5|[해커랭크 010](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)|
+|Basic Select|[SQL](./SQLs/codingtest/HackerRank_011.sql)|Weather Observation Station 6|[해커랭크 011](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)|
 </details>

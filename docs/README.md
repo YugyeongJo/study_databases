@@ -125,7 +125,7 @@ db.fruits.find({})
 
 <br/>
 
-## Coding Test
+## SQL Coding Test
 
 <details>
   <summary>프로그래머스</summary>
@@ -209,7 +209,7 @@ db.fruits.find({})
 </details>
 
 <details>
-  <summary>해커랭크</summary>
+  <summary>Haker Rank</summary>
 
 |NO|구분|소스|문제설명|출처|
 |--|--|--|--|--|
@@ -226,6 +226,24 @@ db.fruits.find({})
 |11|Basic Select|[SQL](./SQLs/codingtest/HackerRank_011.sql)|Weather Observation Station 6|[해커랭크 011](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)|
 |12|Basic Select|[SQL](./SQLs/codingtest/HackerRank_012.sql)|Weather Observation Station 7|[해커랭크 012](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)|
 |13|Basic Select|[SQL](./SQLs/codingtest/HackerRank_013.sql)|Weather Observation Station 8|[해커랭크 013](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true)|
-|14|Basic Select|[SQL](./SQLs/codingtest/HackerRank_014.sql)|Weather Observation Station 9|[해커랭크 00](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)|
+|14|Basic Select|[SQL](./SQLs/codingtest/HackerRank_014.sql)|Weather Observation Station 9|[해커랭크 014](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)|
+|15|Basic Select|[SQL](./SQLs/codingtest/HackerRank_015.sql)|Weather Observation Station 10|[해커랭크 015](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true)|
+|16|Basic Select|[SQL](./SQLs/codingtest/HackerRank_016.sql)|Weather Observation Station 11|[해커랭크 016](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true)|
+|17|Basic Select|[SQL](./SQLs/codingtest/HackerRank_017.sql)|Weather Observation Station 12|[해커랭크 017](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)|
+|18|Basic Select|[SQL](./SQLs/codingtest/HackerRank_018.sql)|Higher Than 75 Marks|[해커랭크 018](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|
+|19|Basic Select|[SQL](./SQLs/codingtest/HackerRank_019.sql)|Employee Names|[해커랭크 019](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|
+|20|Basic Select|[SQL](./SQLs/codingtest/HackerRank_020.sql)|Employee Salaries|[해커랭크 020](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)|
+</details>
+
+<details>
+  <summary>SolveSQL</summary>
+
+|NO|구분|소스|문제설명|출처|
+|--|--|--|--|--|
+|1|모든 데이터 조회하기|[SQL](./SQLs/codingtest/SolveSQL_001.sql)|select-all|[SolveSQL_001](https://solvesql.com/problems/select-all/)|
+|2|데이터 정렬하기|[SQL](./SQLs/codingtest/SolveSQL_002.sql)|order-by|[SolveSQL_002](https://solvesql.com/problems/order-by/)|
+|3|특정 컬럼만 조회하기|[SQL](./SQLs/codingtest/SolveSQL_003.sql)|select-column|[SolveSQL_003](https://solvesql.com/problems/select-column/)|
+|4|레스토랑의 영업일|[SQL](./SQLs/codingtest/SolveSQL_004.sql)|restaurant-business-day|[SolveSQL_004](https://solvesql.com/problems/restaurant-business-day/)|
+|5|다음날도 서울숲의 미세먼지 농도는 나쁨 😢|[SQL](./SQLs/codingtest/SolveSQL_005.sql)|bad-finedust-measure|[SolveSQL_005](https://solvesql.com/problems/bad-finedust-measure/)|
 
 </details>

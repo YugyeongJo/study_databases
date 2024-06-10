@@ -105,6 +105,31 @@ db.fruits.find({})
 <details>
 <summary>MYSQL QUEST</summary>
 
+|구분|파일명|적용내용|파일내용|비고|
+|--|--|--|--|--|
+|1|[STUDY_BOARDS.sql](./SQLs/quests/STUDY_BOARDS.sql)||||
+|2|[STUDY_CARS.sql](./SQLs/quests/STUDY_CARS.sql)||||
+|3|[STUDY_USERS.sql](./SQLs/quests/STUDY_USERS.sql)||||
+|4|[STUDY_MOVIES.sql](./SQLs/quests/STUDY_MOVIES.sql)||||
+|5|[notice_inserts.sql](./SQLs/quests/notice_inserts.sql)||||
+|6|[notice_deletes.sql](./SQLs/quests/notice_deletes.sql)||||
+|7|[STUDY_USERSwithInestSQL.sql](./SQLs/quests/)||||
+|8|[selectwhereRangeAndEquals.sql](./SQLs/quests/selectwhereRangeAndEquals.sql)||||
+|9|[select_group_havings_orderby.sql](./SQLs/quests/select_group_havings_orderby.sql)||||
+|10|[select_subquerys.sql](./SQLs/quests/select_subquerys.sql)||||
+|11|[select_joins.sql](./SQLs/quests/select_joins.sql)||||
+|12|[select_alls.sql](./SQLs/quests/select_alls.sql)||||
+|13|[common_codes.sql]()||||
+
+</details>
+
+<br/>
+
+## Coding Test
+
+<details>
+  <summary>프로그래머스</summary>
+  
 |NO|구분|소스|문제설명|출처|
 |--|--|--|--|--|
 |1|IS NULL|[SQL](./SQLs/codingtest/131114.sql)|경기도에 위치한 식품창고 목록 출력하기|[프로그래머스 131114](https://school.programmers.co.kr/learn/courses/30/lessons/131114)|
@@ -124,7 +149,7 @@ db.fruits.find({})
 |15|SUM, MAX, MIN|[SQL](./SQLs/codingtest/273709.sql)|조건에 맞는 아이템들의 가격의 총합 구하기|[프로그래머스 273709](https://school.programmers.co.kr/learn/courses/30/lessons/273709)|
 |16|SUM, MAX, MIN|[SQL](./SQLs/codingtest/293261.sql)|물고기 종류 별 대어 찾기|[프로그래머스 293261](https://school.programmers.co.kr/learn/courses/30/lessons/293261)|
 |17|SUM, MAX, MIN|[SQL](./SQLs/codingtest/298515.sql)|잡은 물고기 중 가장 큰 물고기의 길이 구하기|[프로그래머스 298515](https://school.programmers.co.kr/learn/courses/30/lessons/298515)|
-|18|SUM, MAX, MIN|[SQL](./SQLs/codingtest/299310.sql)|연도별 대장균 크기의 편차 구하기|[프로그래머스 299310](https://school.programmers.co.kr/learn/courses/30/lessons/299310)|
+|18|SUM, MAX, MIN|[SQL](./SQLs/codingtest/299310.sql)|연도별 대장균 크기의 편차 구하기 |[프로그래머스 299310](https://school.programmers.co.kr/learn/courses/30/lessons/299310)|
 |19|SELECT|[SQL](./SQLs/codingtest/151136.sql)|평균 일일 대여 요금 구하기|[프로그래머스 151136](https://school.programmers.co.kr/learn/courses/30/lessons/151136)|
 |20|SELECT|[SQL](./SQLs/codingtest/144853.sql)|조건에 맞는 도서 리스트 출력하기|[프로그래머스 144853](https://school.programmers.co.kr/learn/courses/30/lessons/144853)|
 |21|SELECT|[SQL](./SQLs/codingtest/132201.sql)|12세 이하인 여자 환자 목록 출력하기|[프로그래머스 132201](https://school.programmers.co.kr/learn/courses/30/lessons/132201)|
@@ -173,7 +198,7 @@ db.fruits.find({})
 </details>
 
 <details>
-  <summary>Haker Rank</summary>
+  <summary>해커랭크</summary>
 
 |NO|구분|소스|문제설명|출처|
 |--|--|--|--|--|
@@ -197,10 +222,12 @@ db.fruits.find({})
 |18|Basic Select|[SQL](./SQLs/codingtest/HackerRank_018.sql)|Higher Than 75 Marks|[해커랭크 018](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|
 |19|Basic Select|[SQL](./SQLs/codingtest/HackerRank_019.sql)|Employee Names|[해커랭크 019](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|
 |20|Basic Select|[SQL](./SQLs/codingtest/HackerRank_020.sql)|Employee Salaries|[해커랭크 020](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)|
+
 </details>
 
 <details>
-  <summary>SolveSQL</summary>
+  <summary>Solve SQL</summary>
+
 
 |NO|구분|소스|문제설명|출처|
 |--|--|--|--|--|

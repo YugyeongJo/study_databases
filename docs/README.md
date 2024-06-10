@@ -98,8 +98,6 @@ db.fruits.find({})
 |11|||||
 |12|||||
 
-
-
 </details>
 
 <details>
@@ -227,7 +225,6 @@ db.fruits.find({})
 
 <details>
   <summary>Solve SQL</summary>
-
 
 |NO|구분|소스|문제설명|출처|
 |--|--|--|--|--|

@@ -193,6 +193,49 @@ db.fruits.find({})
 |62|JOIN|[SQL](./SQLs/codingtest/131533.sql)|상품 별 오프라인 매출 구하기|[프로그래머스 131533](https://school.programmers.co.kr/learn/courses/30/lessons/131533)|
 |52|JOIN|[SQL](./SQLs/codingtest/131534.sql)|상품을 구매한 회원 비율 구하기|[프로그래머스 131534](https://school.programmers.co.kr/learn/courses/30/lessons/131534)|
 |63|JOIN|[SQL](./SQLs/codingtest/276035.sql)|FrontEnd 개발자 찾기|[프로그래머스 276035](https://school.programmers.co.kr/learn/courses/30/lessons/276035)|
+|64|GROUP BY|[SQL](./SQLs/codingtest/151137.sql)|자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기|[프로그래머스 151137](https://school.programmers.co.kr/learn/courses/30/lessons/151137)|
+|65|GROUP BY|[SQL](./SQLs/codingtest/151139.sql)|대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기|[프로그래머스 151139](https://school.programmers.co.kr/learn/courses/30/lessons/151139)|
+|66|GROUP BY|[SQL](./SQLs/codingtest/133026.sql)|성분으로 구분한 아이스크림 총 주문량|[프로그래머스 133026](https://school.programmers.co.kr/learn/courses/30/lessons/133026)|
+|67|GROUP BY|[SQL](./SQLs/codingtest/164668.sql)|조건에 맞는 사용자와 총 거래금액 조회하기|[프로그래머스 164668](https://school.programmers.co.kr/learn/courses/30/lessons/164668)|
+|68|GROUP BY|[SQL](./SQLs/codingtest/131123.sql)|즐겨찾기가 가장 많은 식당 정보 출력하기|[프로그래머스 131123](https://school.programmers.co.kr/learn/courses/30/lessons/131123)|
+|69|GROUP BY|[SQL](./SQLs/codingtest/144855.sql)|카테고리 별 도서 판매량 집계하기|[프로그래머스 144855](https://school.programmers.co.kr/learn/courses/30/lessons/144855)|
+|70|GROUP BY|[SQL](./SQLs/codingtest/157340.sql)|자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기|[프로그래머스 157340](https://school.programmers.co.kr/learn/courses/30/lessons/157340)|
+|71|GROUP BY|[SQL](./SQLs/codingtest/132202.sql)|진료과별 총 예약 횟수 출력하기|[프로그래머스 132202](https://school.programmers.co.kr/learn/courses/30/lessons/132202)|
+|72|GROUP BY|[SQL](./SQLs/codingtest/144856.sql)|저자 별 카테고리 별 매출액 집계하기|[프로그래머스 144856](https://school.programmers.co.kr/learn/courses/30/lessons/144856)|
+|73|GROUP BY|[SQL](./SQLs/codingtest/131116.sql)|식품분류별 가장 비싼 식품의 정보 조회하기|[프로그래머스 131116](https://school.programmers.co.kr/learn/courses/30/lessons/131116)|
+|74|GROUP BY|[SQL](./SQLs/codingtest/59040.sql)|고양이와 개는 몇 마리 있을까|[프로그래머스 59040](https://school.programmers.co.kr/learn/courses/30/lessons/59040)|
+|75|GROUP BY|[SQL](./SQLs/codingtest/59041.sql)|동명 동물 수 찾기|[프로그래머스 59041](https://school.programmers.co.kr/learn/courses/30/lessons/59041)|
+|76|GROUP BY|[SQL](./SQLs/codingtest/131532.sql)|년, 월, 성별 별 상품 구매 회원 수 구하기|[프로그래머스 131532](https://school.programmers.co.kr/learn/courses/30/lessons/131532)|
+|77|GROUP BY|[SQL](./SQLs/codingtest/59412.sql)|입양 시각 구하기(1)|[프로그래머스 59412](https://school.programmers.co.kr/learn/courses/30/lessons/59412)|
+|78|GROUP BY|[SQL](./SQLs/codingtest/59413.sql)|입양 시각 구하기(2)|[프로그래머스 59413](https://school.programmers.co.kr/learn/courses/30/lessons/59413)|
+|79|GROUP BY|[SQL](./SQLs/codingtest/131530.sql)|가격대 별 상품 개수 구하기|[프로그래머스 131530](https://school.programmers.co.kr/learn/courses/30/lessons/131530)|
+|80|GROUP BY|[SQL](./SQLs/codingtest/276036.sql)|언어별 개발자 분류하기|[프로그래머스 276036](https://school.programmers.co.kr/learn/courses/30/lessons/276036)|
+|81|GROUP BY|[SQL](./SQLs/codingtest/284527.sql)|조건에 맞는 사원 정보 조회하기|[프로그래머스 284527](https://school.programmers.co.kr/learn/courses/30/lessons/284527)|
+|82|GROUP BY|[SQL](./SQLs/codingtest/284528.sql)|연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기|[프로그래머스 284528](https://school.programmers.co.kr/learn/courses/30/lessons/284528)|
+|83|GROUP BY|[SQL](./SQLs/codingtest/284529.sql)|부서별 평균 연봉 조회하기|[프로그래머스 284529](https://school.programmers.co.kr/learn/courses/30/lessons/284529)|
+|84|GROUP BY|[SQL](./SQLs/codingtest/284531.sql)|노선별 평균 역 사이 거리 조회하기|[프로그래머스 284531](https://school.programmers.co.kr/learn/courses/30/lessons/284531)|
+|85|GROUP BY|[SQL](./SQLs/codingtest/293257.sql)|물고기 종류 별 잡은 수 구하기|[프로그래머스 293257](https://school.programmers.co.kr/learn/courses/30/lessons/293257)|
+|86|GROUP BY|[SQL](./SQLs/codingtest/293260.sql)|월별 잡은 물고기 수 구하기|[프로그래머스 293260](https://school.programmers.co.kr/learn/courses/30/lessons/293260)|
+|87|GROUP BY|[SQL](./SQLs/codingtest/298519.sql)|특정 조건을 만족하는 물고기별 수와 최대 길이 구하기|[프로그래머스 298519](https://school.programmers.co.kr/learn/courses/30/lessons/298519)|
+|88|String, Date|[SQL](./SQLs/codingtest/164671.sql)|조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기|[프로그래머스 164671](https://school.programmers.co.kr/learn/courses/30/lessons/164671)|
+|89|String, Date|[SQL](./SQLs/codingtest/157343.sql)|특정 옵션이 포함된 자동차 리스트 구하기|[프로그래머스 157343](https://school.programmers.co.kr/learn/courses/30/lessons/157343)|
+|90|String, Date|[SQL](./SQLs/codingtest/151141.sql)|자동차 대여 기록 별 대여 금액 구하기|[프로그래머스 151141](https://school.programmers.co.kr/learn/courses/30/lessons/151141)|
+|91|String, Date|[SQL](./SQLs/codingtest/164672.sql)|조건에 부합하는 중고거래 상태 조회하기|[프로그래머스 164672](https://school.programmers.co.kr/learn/courses/30/lessons/164672)|
+|92|String, Date|[SQL](./SQLs/codingtest/131113.sql)|조건별로 분류하여 주문상태 출력하기|[프로그래머스 131113](https://school.programmers.co.kr/learn/courses/30/lessons/131113)|
+|93|String, Date|[SQL](./SQLs/codingtest/164670.sql)|조건에 맞는 사용자 정보 조회하기|[프로그래머스 164670](https://school.programmers.co.kr/learn/courses/30/lessons/164670)|
+|94|String, Date|[SQL](./SQLs/codingtest/157341.sql)|대여 기록이 존재하는 자동차 리스트 구하기|[프로그래머스 157341](https://school.programmers.co.kr/learn/courses/30/lessons/157341)|
+|95|String, Date|[SQL](./SQLs/codingtest/151138.sql)|자동차 대여 기록에서 장기/단기 대여 구분하기|[프로그래머스 151138](https://school.programmers.co.kr/learn/courses/30/lessons/151138)|
+|96|String, Date|[SQL](./SQLs/codingtest/157342.sql)|자동차 평균 대여 기간 구하기|[프로그래머스 157342](https://school.programmers.co.kr/learn/courses/30/lessons/157342)|
+|97|String, Date|[SQL](./SQLs/codingtest/132204.sql)|취소되지 않은 진료 예약 조회하기|[프로그래머스 132204](https://school.programmers.co.kr/learn/courses/30/lessons/132204)|
+|98|String, Date|[SQL](./SQLs/codingtest/59046.sql)|루시와 엘라 찾기|[프로그래머스 59046](https://school.programmers.co.kr/learn/courses/30/lessons/59046)|
+|99|String, Date|[SQL](./SQLs/codingtest/59047.sql)|이름에 el이 들어가는 동물 찾기|[프로그래머스 59047](https://school.programmers.co.kr/learn/courses/30/lessons/59047)|
+|100|String, Date|[SQL](./SQLs/codingtest/59409.sql)|중성화 여부 파악하기|[프로그래머스 59409](https://school.programmers.co.kr/learn/courses/30/lessons/59409)|
+|101|String, Date|[SQL](./SQLs/codingtest/59411.sql)|오랜 기간 보호한 동물(2)|[프로그래머스 59411](https://school.programmers.co.kr/learn/courses/30/lessons/59411)|
+|102|String, Date|[SQL](./SQLs/codingtest/131529.sql)|카테고리 별 상품 개수 구하기|[프로그래머스 131529](https://school.programmers.co.kr/learn/courses/30/lessons/131529)|
+|103|String, Date|[SQL](./SQLs/codingtest/59414.sql)|DATETIME에서 DATE로 형 변환|[프로그래머스 59414](https://school.programmers.co.kr/learn/courses/30/lessons/59414)|
+|104|String, Date|[SQL](./SQLs/codingtest/284530.sql)|연도 별 평균 미세먼지 농도 조회하기|[프로그래머스 284530](https://school.programmers.co.kr/learn/courses/30/lessons/284530)|
+|105|String, Date|[SQL](./SQLs/codingtest/298516.sql)|한 해에 잡은 물고기 수 구하기|[프로그래머스 298516](https://school.programmers.co.kr/learn/courses/30/lessons/298516)|
+|106|String, Date|[SQL](./SQLs/codingtest/299308.sql)|분기별 분화된 대장균의 개체 수 구하기|[프로그래머스 299308](https://school.programmers.co.kr/learn/courses/30/lessons/299308)|
 </details>
 
 <details>

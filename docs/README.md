@@ -237,7 +237,7 @@ db.fruits.find({})
 |105|String, Date|[SQL](./SQLs/codingtest/298516.sql)|한 해에 잡은 물고기 수 구하기|[프로그래머스 298516](https://school.programmers.co.kr/learn/courses/30/lessons/298516)|
 |106|String, Date|[SQL](./SQLs/codingtest/299308.sql)|분기별 분화된 대장균의 개체 수 구하기|[프로그래머스 299308](https://school.programmers.co.kr/learn/courses/30/lessons/299308)|
 
-<p>프로그래머스 완료!</p>
+<p>🤗프로그래머스 완료!🤗</p>
 
 ![Programmers_SQL](./SQLs/codingtest/img/programmers_SQL.PNG)
 </details>

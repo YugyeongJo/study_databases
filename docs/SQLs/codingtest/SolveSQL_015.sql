@@ -1,31 +1,21 @@
 /*
-https://solvesql.com/problems/sales-summary/
+https://solvesql.com/problems/join/
 
-레스토랑의 일일 평균 매출액 계산하기
-난이도 1
-출제자 [데이터리안] 선미
+두 테이블 결합하기
+난이도 2
+출제자 박치완
 
-정답률 37.93% (1226회 / 3232회)
+정답률 31.40% (1487회 / 4735회)
 
-tips 테이블에는 식사 금액, 팁, 결제자, 성별, 요일, 시간대 등 어느 레스토랑의 테이블 당 결제에 관련된 데이터가 들어있습니다.
-이 레스토랑의 일일 평균 매출을 계산해주세요. 예를 들어, 일일 매출이 다음과 같다면 일일 평균 매출은 287.5 입니다. 컬럼의 이름은 avg_sales로 출력해주세요. 결과는 소수점 아래 셋째 자리에서 반올림하여 둘째 자리까지 표시되어야 합니다.
-예시
-일일 매출
-day	sales
-Thur	100
-Fri	200
-Sat	400
-Sun	450
-결과
-avg_sales
-287.5
+역대 올림픽 정보 데이터셋은 역대 올림픽 경기와 관련된 데이터가 들어있는 테이블로 이루어져 있습니다.
+athletes 테이블에는 역대 올림픽 참가 선수의 이름이 들어 있습니다. events 테이블에는 종목과 경기 이름이 들어 있습니다. games 테이블에는 올림픽 개최 연도, 개최 도시와 시즌 정보가 기록되어 있습니다. records 테이블에는 역대 올림픽 참가 선수들의 신체 정보와 획득한 메달 정보가 기록되어 있습니다. 이 테이블은 다른 테이블과 매핑할 수 있는 ID 정보도 가지고 있습니다. teams 테이블에는 국가 정보가 기록되어 있습니다.
+위 테이블 중 events 테이블과 records 테이블을 활용해 올림픽 골프 종목에 참가한 선수의 ID를 모두 조회하는 쿼리를 작성해주세요.
 
 */
 
-WITH TOTAL_AMOUNT AS (SELECT SUM(total_bill) AS SUM_BILL
-                      FROM tips 
-                      GROUP BY day)
-
-SELECT ROUND(AVG(SUM_BILL), 2) AS avg_sales
-FROM TOTAL_AMOUNT
+SELECT DISTINCT records.athlete_id
+FROM records 
+INNER JOIN events
+ON records.event_id = events.id
+WHERE events.sport = 'Golf'
 ;

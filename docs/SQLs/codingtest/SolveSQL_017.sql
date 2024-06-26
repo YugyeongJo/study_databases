@@ -1,3 +1,4 @@
+/*
 https://solvesql.com/problems/daily-revenue/
 
 레스토랑의 일일 매출
@@ -20,4 +21,4 @@ GROUP BY day
 HAVING revenue_daily >= 1000
 ORDER BY revenue_daily DESC
 ;
->>>>>>> e5051ab0de5f418c7abccee6395f7202899bf531
+

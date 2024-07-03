@@ -277,20 +277,22 @@ db.fruits.find({})
 |--|--|--|--|--|
 |1|모든 데이터 조회하기|[SQL](./SQLs/codingtest/SolveSQL_001.sql)|select-all|[SolveSQL_001](https://solvesql.com/problems/select-all/)|
 |2|데이터 정렬하기|[SQL](./SQLs/codingtest/SolveSQL_002.sql)|order-by|[SolveSQL_002](https://solvesql.com/problems/order-by/)|
-|3|특정 컬럼만 조회하기
-|[SQL](./SQLs/codingtest/SolveSQL_003.sql)|select-column|[SolveSQL_003](https://solvesql.com/problems/select-column/)|
+|3|특정 컬럼만 조회하기|[SQL](./SQLs/codingtest/SolveSQL_003.sql)|select-column|[SolveSQL_003](https://solvesql.com/problems/select-column/)|
 |4|레스토랑의 영업일|[SQL](./SQLs/codingtest/SolveSQL_004.sql)|restaurant-business-day|[SolveSQL_004](https://solvesql.com/problems/restaurant-business-day/)|
 |5|다음날도 서울숲의 미세먼지 농도는 나쁨 😢|[SQL](./SQLs/codingtest/SolveSQL_005.sql)|bad-finedust-measure|[SolveSQL_005](https://solvesql.com/problems/bad-finedust-measure/)|
-|6|일부 데이터 조회하기
-|[SQL](./SQLs/codingtest/SolveSQL_006.sql)|select-where|[SolveSQL_006](https://solvesql.com/problems/select-where/)|
+|6|일부 데이터 조회하기|[SQL](./SQLs/codingtest/SolveSQL_006.sql)|select-where|[SolveSQL_006](https://solvesql.com/problems/select-where/)|
 |7|데이터 그룹으로 묶기|[SQL](./SQLs/codingtest/SolveSQL_007.sql)|group-by|[SolveSQL_007](https://solvesql.com/problems/group-by/)|
-|8|몇 분이서 오셨어요?
-|[SQL](./SQLs/codingtest/SolveSQL_008.sql)|size-of-table|[SolveSQL_008](https://solvesql.com/problems/size-of-table/)|
-|9|최근 올림픽이 개최된 도시
-|[SQL](./SQLs/codingtest/SolveSQL_009.sql)|olympic-cities|[SolveSQL_009](https://solvesql.com/problems/olympic-cities/)|
-|10|우리 플랫폼에 정착한 판매자 1
-|[SQL](./SQLs/codingtest/SolveSQL_010.sql)|settled-sellers-1|[SolveSQL_010](https://solvesql.com/problems/settled-sellers-1/)|
-|11|최고의 근무일을 찾아라
-|[SQL](./SQLs/codingtest/SolveSQL_011.sql)|best-working-day|[SolveSQL_011](https://solvesql.com/problems/best-working-day/)|
+|8|몇 분이서 오셨어요?|[SQL](./SQLs/codingtest/SolveSQL_008.sql)|size-of-table|[SolveSQL_008](https://solvesql.com/problems/size-of-table/)|
+|9|최근 올림픽이 개최된 도시|[SQL](./SQLs/codingtest/SolveSQL_009.sql)|olympic-cities|[SolveSQL_009](https://solvesql.com/problems/olympic-cities/)|
+|10|우리 플랫폼에 정착한 판매자 1|[SQL](./SQLs/codingtest/SolveSQL_010.sql)|settled-sellers-1|[SolveSQL_010](https://solvesql.com/problems/settled-sellers-1/)|
+|11|최고의 근무일을 찾아라|[SQL](./SQLs/codingtest/SolveSQL_011.sql)|best-working-day|[SolveSQL_011](https://solvesql.com/problems/best-working-day/)|
+|12|첫 주문과 마지막 주문|[SQL](./SQLs/codingtest/SolveSQL_012.sql)|first-and-last-orders|[SolveSQL_012](https://solvesql.com/problems/first-and-last-orders/)|
+|13|많이 주문한 테이블 찾기|[SQL](./SQLs/codingtest/SolveSQL_013.sql)|find-tables-with-high-bill|[SolveSQL_013](https://solvesql.com/problems/find-tables-with-high-bill/)|
+|14|레스토랑의 일일 평균 매출액 계산하기|[SQL](./SQLs/codingtest/SolveSQL_014.sql)|sales-summary|[SolveSQL_014](https://solvesql.com/problems/sales-summary/)|
+|15|두 테이블 결합하기|[SQL](./SQLs/codingtest/SolveSQL_015.sql)|join|[SolveSQL_015](https://solvesql.com/problems/join/)|
+|16|레스토랑 웨이터의 팁 분석|[SQL](./SQLs/codingtest/SolveSQL_016.sql)|tip-analysis|[SolveSQL_016](https://solvesql.com/problems/tip-analysis/)|
+|17|레스토랑의 일일 매출|[SQL](./SQLs/codingtest/SolveSQL_017.sql)|daily-revenue|[SolveSQL_017](https://solvesql.com/problems/daily-revenue/)|
+|18|레스토랑의 대목|[SQL](./SQLs/codingtest/SolveSQL_018.sql)|high-season-of-restaurant|[SolveSQL_018](https://solvesql.com/problems/high-season-of-restaurant/)|
+|19|일별 블로그 방문자 수 집계|[SQL](./SQLs/codingtest/SolveSQL_019.sql)|blog-counter|[SolveSQL_019](https://solvesql.com/problems/blog-counter/)|
 
 </details>

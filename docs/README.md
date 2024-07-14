@@ -277,20 +277,14 @@ db.fruits.find({})
 |--|--|--|--|--|
 |1|모든 데이터 조회하기|[SQL](./SQLs/codingtest/SolveSQL_001.sql)|select-all|[SolveSQL_001](https://solvesql.com/problems/select-all/)|
 |2|데이터 정렬하기|[SQL](./SQLs/codingtest/SolveSQL_002.sql)|order-by|[SolveSQL_002](https://solvesql.com/problems/order-by/)|
-|3|특정 컬럼만 조회하기
-|[SQL](./SQLs/codingtest/SolveSQL_003.sql)|select-column|[SolveSQL_003](https://solvesql.com/problems/select-column/)|
+|3|특정 컬럼만 조회하기|[SQL](./SQLs/codingtest/SolveSQL_003.sql)|select-column|[SolveSQL_003](https://solvesql.com/problems/select-column/)|
 |4|레스토랑의 영업일|[SQL](./SQLs/codingtest/SolveSQL_004.sql)|restaurant-business-day|[SolveSQL_004](https://solvesql.com/problems/restaurant-business-day/)|
 |5|다음날도 서울숲의 미세먼지 농도는 나쁨 😢|[SQL](./SQLs/codingtest/SolveSQL_005.sql)|bad-finedust-measure|[SolveSQL_005](https://solvesql.com/problems/bad-finedust-measure/)|
-|6|일부 데이터 조회하기
-|[SQL](./SQLs/codingtest/SolveSQL_006.sql)|select-where|[SolveSQL_006](https://solvesql.com/problems/select-where/)|
+|6|일부 데이터 조회하기|[SQL](./SQLs/codingtest/SolveSQL_006.sql)|select-where|[SolveSQL_006](https://solvesql.com/problems/select-where/)|
 |7|데이터 그룹으로 묶기|[SQL](./SQLs/codingtest/SolveSQL_007.sql)|group-by|[SolveSQL_007](https://solvesql.com/problems/group-by/)|
-|8|몇 분이서 오셨어요?
-|[SQL](./SQLs/codingtest/SolveSQL_008.sql)|size-of-table|[SolveSQL_008](https://solvesql.com/problems/size-of-table/)|
-|9|최근 올림픽이 개최된 도시
-|[SQL](./SQLs/codingtest/SolveSQL_009.sql)|olympic-cities|[SolveSQL_009](https://solvesql.com/problems/olympic-cities/)|
-|10|우리 플랫폼에 정착한 판매자 1
-|[SQL](./SQLs/codingtest/SolveSQL_010.sql)|settled-sellers-1|[SolveSQL_010](https://solvesql.com/problems/settled-sellers-1/)|
-|11|최고의 근무일을 찾아라
-|[SQL](./SQLs/codingtest/SolveSQL_011.sql)|best-working-day|[SolveSQL_011](https://solvesql.com/problems/best-working-day/)|
+|8|몇 분이서 오셨어요?|[SQL](./SQLs/codingtest/SolveSQL_008.sql)|size-of-table|[SolveSQL_008](https://solvesql.com/problems/size-of-table/)|
+|9|최근 올림픽이 개최된 도시|[SQL](./SQLs/codingtest/SolveSQL_009.sql)|olympic-cities|[SolveSQL_009](https://solvesql.com/problems/olympic-cities/)|
+|10|우리 플랫폼에 정착한 판매자 1|[SQL](./SQLs/codingtest/SolveSQL_010.sql)|settled-sellers-1|[SolveSQL_010](https://solvesql.com/problems/settled-sellers-1/)|
+|11|최고의 근무일을 찾아라|[SQL](./SQLs/codingtest/SolveSQL_011.sql)|best-working-day|[SolveSQL_011](https://solvesql.com/problems/best-working-day/)|
 
 </details>

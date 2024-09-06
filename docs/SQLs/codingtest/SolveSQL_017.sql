@@ -21,3 +21,4 @@ GROUP BY day
 HAVING revenue_daily >= 1000
 ORDER BY revenue_daily DESC
 ;
+

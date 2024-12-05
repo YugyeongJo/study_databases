@@ -297,6 +297,7 @@ db.fruits.find({})
 |17|레스토랑의 일일 매출|[SQL](./SQLs/codingtest/SolveSQL_017.sql)|daily-revenue|[SolveSQL_017](https://solvesql.com/problems/daily-revenue/)|
 |18|레스토랑의 대목|[SQL](./SQLs/codingtest/SolveSQL_018.sql)|high-season-of-restaurant|[SolveSQL_018](https://solvesql.com/problems/high-season-of-restaurant/)|
 |19|일별 블로그 방문자 수 집계|[SQL](./SQLs/codingtest/SolveSQL_019.sql)|blog-counter|[SolveSQL_019](https://solvesql.com/problems/blog-counter/)|
-
+|20|우리 플랫폼에 정착한 판매자 2|[SQL](./SQLs/codingtest/SolveSQL_020.sql)|settled-sellers-2|[SolveSQL_020](https://solvesql.com/problems/settled-sellers-2/)|
+|21|크리스마스 게임 찾기|[SQL](./SQLs/codingtest/SolveSQL_021.sql)|find-christmas-games|[SolveSQL_021](https://solvesql.com/problems/find-christmas-games/)|
 
 </details>

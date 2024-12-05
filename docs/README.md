@@ -298,4 +298,5 @@ db.fruits.find({})
 |18|레스토랑의 대목|[SQL](./SQLs/codingtest/SolveSQL_018.sql)|high-season-of-restaurant|[SolveSQL_018](https://solvesql.com/problems/high-season-of-restaurant/)|
 |19|일별 블로그 방문자 수 집계|[SQL](./SQLs/codingtest/SolveSQL_019.sql)|blog-counter|[SolveSQL_019](https://solvesql.com/problems/blog-counter/)|
 
+
 </details>

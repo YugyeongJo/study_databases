@@ -47,18 +47,10 @@ db.fruits.find({})
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
-|1|||||
-|2|||||
-|3|||||
-|4|||||
-|5|||||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
-|11|||||
-|12|||||
+|1|[mongo_insert.py](./NoSQL/mongo_insert.py)||||
+|2|[mongo_inserts_doubleCollection.py](./NoSQL/mongo_inserts_doubleCollection.py)||||
+|3|[mongo_finds.py](./NoSQL/mongo_finds.py)||||
+|4|[mongo_deletes.py](./NoSQL/mongo_deletes.py)||||
 
 </details>
 

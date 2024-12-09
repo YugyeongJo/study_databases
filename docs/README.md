@@ -59,18 +59,10 @@ db.fruits.find({})
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
-|1|||||
-|2|||||
-|3|||||
-|4|||||
-|5|||||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
-|11|||||
-|12|||||
+|1|[mongo_insert_functions.py](./NoSQL/quests/mongo_insert_functions.py)||||
+|2|[todolist.py](./NoSQL/quests/todolist.py)||||
+|3|[solvingProblem_main.py](/docs/NoSQL/quests/solvingProblem_main.py)||||
+|4|[solvingProblem_functions.py](./NoSQL/quests/solvingProblem_functions.py)||||
 
 
 </details>

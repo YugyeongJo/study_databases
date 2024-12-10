@@ -88,7 +88,7 @@ db.fruits.find({})
 </details>
 
 <details>
-<summary>MYSQL QUEST</summary>
+<summary>SQL QUEST</summary>
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|

@@ -68,7 +68,7 @@ db.fruits.find({})
 </details>
 
 <details>
-<summary>MYSQL</summary>
+<summary>SQL</summary>
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|

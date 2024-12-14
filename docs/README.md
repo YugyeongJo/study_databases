@@ -1,4 +1,5 @@
 # 제목
+여기는
 
 ## SQL
 
@@ -46,6 +47,7 @@ db.fruits.find({})
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
+<<<<<<< HEAD
 |1|||||
 |2|||||
 |3|||||
@@ -55,6 +57,12 @@ db.fruits.find({})
 |7|||||
 |8|||||
 |9|||||
+=======
+|1|[mongo_insert.py](./NoSQL/mongo_insert.py)||||
+|2|[mongo_inserts_doubleCollection.py](./NoSQL/mongo_inserts_doubleCollection.py)||||
+|3|[mongo_finds.py](./NoSQL/mongo_finds.py)||||
+|4|[mongo_deletes.py](./NoSQL/mongo_deletes.py)||||
+>>>>>>> 53491fe8f0c7cb18eee530644f9ad407e7d8fec4
 
 </details>
 
@@ -63,24 +71,16 @@ db.fruits.find({})
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
-|1|||||
-|2|||||
-|3|||||
-|4|||||
-|5|||||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
-|11|||||
-|12|||||
+|1|[mongo_insert_functions.py](./NoSQL/quests/mongo_insert_functions.py)||||
+|2|[todolist.py](./NoSQL/quests/todolist.py)||||
+|3|[solvingProblem_main.py](/docs/NoSQL/quests/solvingProblem_main.py)||||
+|4|[solvingProblem_functions.py](./NoSQL/quests/solvingProblem_functions.py)||||
 
 
 </details>
 
 <details>
-<summary>MYSQL</summary>
+<summary>SQL</summary>
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
@@ -100,7 +100,7 @@ db.fruits.find({})
 </details>
 
 <details>
-<summary>MYSQL QUEST</summary>
+<summary>SQL QUEST</summary>
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
@@ -293,5 +293,7 @@ db.fruits.find({})
 |17|레스토랑의 일일 매출|[SQL](./SQLs/codingtest/SolveSQL_017.sql)|daily-revenue|[SolveSQL_017](https://solvesql.com/problems/daily-revenue/)|
 |18|레스토랑의 대목|[SQL](./SQLs/codingtest/SolveSQL_018.sql)|high-season-of-restaurant|[SolveSQL_018](https://solvesql.com/problems/high-season-of-restaurant/)|
 |19|일별 블로그 방문자 수 집계|[SQL](./SQLs/codingtest/SolveSQL_019.sql)|blog-counter|[SolveSQL_019](https://solvesql.com/problems/blog-counter/)|
+|20|우리 플랫폼에 정착한 판매자 2|[SQL](./SQLs/codingtest/SolveSQL_020.sql)|settled-sellers-2|[SolveSQL_020](https://solvesql.com/problems/settled-sellers-2/)|
+|21|크리스마스 게임 찾기|[SQL](./SQLs/codingtest/SolveSQL_021.sql)|find-christmas-games|[SolveSQL_021](https://solvesql.com/problems/find-christmas-games/)|
 
 </details>

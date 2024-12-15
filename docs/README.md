@@ -64,7 +64,6 @@ db.fruits.find({})
 |3|[solvingProblem_main.py](/docs/NoSQL/quests/solvingProblem_main.py)||||
 |4|[solvingProblem_functions.py](./NoSQL/quests/solvingProblem_functions.py)||||
 
-
 </details>
 
 <details>

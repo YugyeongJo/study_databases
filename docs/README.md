@@ -64,6 +64,7 @@ db.fruits.find({})
 |4|[mongo_deletes.py](./NoSQL/mongo_deletes.py)||||
 >>>>>>> 53491fe8f0c7cb18eee530644f9ad407e7d8fec4
 
+
 </details>
 
 <details>
